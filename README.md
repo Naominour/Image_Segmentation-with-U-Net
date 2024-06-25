@@ -4,7 +4,7 @@ This project focuses on image segmentation using a U-Net architecture. The aim i
 
 ![Image Segmentation](https://img.shields.io/badge/Skill-Image%20Segmentation-green)
 ![Deep Learning](https://img.shields.io/badge/Skill-Deep%20Learning-yellow)
-![Neural Network U-Net](https://img.shields.io/badge/Skill-Neural%20Network%20U-Net-blueviolet)
+![Neural Network U-Net](https://img.shields.io/badge/Skill-Neural%20Network-blueviolet)
 ![Model Training and Evaluation](https://img.shields.io/badge/Skill-Model%20Training%20and%20Evaluation-orange)
 ![Python Programming](https://img.shields.io/badge/Skill-Python%20Programming-brightgreen)
 
