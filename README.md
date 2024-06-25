@@ -4,7 +4,7 @@ This project focuses on image segmentation using a U-Net architecture. The aim i
 
 ![Image Segmentation](https://img.shields.io/badge/Skill-Image%20Segmentation-green)
 ![Deep Learning](https://img.shields.io/badge/Skill-Deep%20Learning-yellow)
-![Neural Network (U-Net)](https://img.shields.io/badge/Skill-Neural%20Network%20U-Net-blueviolet)
+![Neural Network U-Net](https://img.shields.io/badge/Skill-Neural%20Network%20U-Net-blueviolet)
 ![Model Training and Evaluation](https://img.shields.io/badge/Skill-Model%20Training%20and%20Evaluation-orange)
 ![Python Programming](https://img.shields.io/badge/Skill-Python%20Programming-brightgreen)
 
@@ -20,7 +20,6 @@ This project focuses on image segmentation using a U-Net architecture. The aim i
 ## Frameworks and Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-orange.svg?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-3.3.3-red.svg?style=flat&logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV-v6.1-blue.svg?style=flat&logo=opencv)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue.svg?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2.2-yellow.svg?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.6.2-green.svg?style=flat&logo=matplotlib)
@@ -70,11 +69,10 @@ The project involves the following steps:
 **Audio Samples**
 The trained U-Net model demonstrates effective image segmentation capabilities, with visualizations of the segmentation results. The model's performance is evaluated based on metrics such as accuracy, precision, recall, and IoU (Intersection over Union).
 Feel free to explore the project files and experiment with different parameters to improve the segmentation results.
-<center>
-<img src="images\output-1.png" style="width:600px;">
-<img src="images\output-2.png" style="width:600px;">
-<img src="images\output-3.png" style="width:600px;">
-<img src="images\output-4.png" style="width:600px;">
-<img src="images\output-5.png" style="width:600px;">
-<img src="images\output-6.png" style="width:600px;">
-</center>
+
+<center><img src="images\output-1.png" style="width:600px;"></center>
+<center><img src="images\output-2.png" style="width:600px;"></center>
+<center><img src="images\output-3.png" style="width:600px;"></center>
+<center><img src="images\output-4.png" style="width:600px;"></center>
+<center><img src="images\output-5.png" style="width:600px;"></center>
+<center><img src="images\output-6.png" style="width:600px;"></center>
